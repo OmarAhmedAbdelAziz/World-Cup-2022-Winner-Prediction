@@ -2,7 +2,7 @@
 
 A brief about the notebook:
 
-1-Data Reading
+1-Data Reading & Understanding
 
 2-Data Cleaning & Wrangling
 
