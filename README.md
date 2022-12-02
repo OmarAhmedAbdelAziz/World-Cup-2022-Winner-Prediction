@@ -1,9 +1,5 @@
 # World-Cup-2022-Winner-Prediction
 
-My New Machine Learning project.
-
-Concrete Strength Prediction using Regression Algorithms.
-
 A brief about the notebook:
 
 1-Data Reading
